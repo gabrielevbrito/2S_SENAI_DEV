@@ -1,0 +1,20 @@
+USE VEICULOS;
+GO
+
+SELECT * FROM Empresas;
+GO
+
+SELECT * FROM Clientes;
+GO
+
+SELECT * FROM Marcas;
+GO
+
+SELECT * FROM Modelos;
+GO
+
+SELECT * FROM Veiculos;
+GO
+
+SELECT * FROM Alugueis;
+GO
